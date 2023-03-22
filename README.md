@@ -27,7 +27,7 @@ This version requires [PHP](https://www.php.net/) 7.4-8.2 and supports [Laravel]
 
 To get the latest version, simply require the project using [Composer](https://getcomposer.org/):
 
-```bash
+```bash (prompt='$')
 $ composer require "graham-campbell/throttle:^10.0"
 ```
 
@@ -46,7 +46,7 @@ Laravel Throttle supports optional configuration.
 
 To get started, you'll need to publish all vendor assets:
 
-```bash
+```bash (prompt='$')
 $ php artisan vendor:publish
 ```
 
